@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a64e5b0e436d4bed9780211ae245f7b, type: 3}
+  m_Name: SwitchBoxSwitch_Data
+  m_EditorClassIdentifier: 
+  dataName: SwitchBoxSwitch
+  dragonBonesJSON: {fileID: 4900000, guid: 86d72ba893a4daf42bb6e86ce363daab, type: 3}
+  textureAtlas:
+  - textureAtlasJSON: {fileID: 4900000, guid: 910f5aef8f3416141bd208973f217aa5, type: 3}
+    texture: {fileID: 2800000, guid: 3ace49b748c6b0b4ab60d49f50b4ce6f, type: 3}
+    material: {fileID: 2100000, guid: fff9d0e1f67881245b4dbf5edac673a0, type: 2}
+    uiMaterial: {fileID: 0}
